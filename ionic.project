@@ -1,0 +1,10 @@
+{
+  "name": "payDemo",
+  "app_id": "",
+  "proxies": [
+    {
+      "path": "/pingapp",
+      "proxyUrl": "http://localhost:8010"
+    }
+  ]
+}
